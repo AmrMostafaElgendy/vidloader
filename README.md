@@ -34,4 +34,4 @@ Contributions to Vidloader are welcome! If you have a feature request or bug rep
 
 # License
 
-Vidloader is licensed under the<a href="https://opensource.org/licenses/MIT" target="_blank" > MIT License. </a> See the LICENSE file for more information.
+Vidloader is licensed under the<a href="https://opensource.org/licenses/MIT"> MIT License. </a> See the LICENSE file for more information.
