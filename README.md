@@ -30,8 +30,3 @@
 
 Contributions to Vidloader are welcome! If you have a feature request or bug report, please open an issue on GitHub. If you'd like to contribute code, please fork the repository and submit a pull request.
 
-
-
-# License
-
-Vidloader is licensed under the<a href="https://opensource.org/licenses/MIT"> MIT License. </a> See the LICENSE file for more information.
